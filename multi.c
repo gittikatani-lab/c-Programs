@@ -6,6 +6,6 @@ int main() {
     printf("enter no.=b");
     scanf("%d", &b);
     product =a*b;
-    printf("product of two no.=%d",product43);
+    printf("product of two no.=%d",product);
     return 0;
 }
