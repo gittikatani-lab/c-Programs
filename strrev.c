@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<string.h>
+
 void main(){
     int i,l;
     char str[20],c;
