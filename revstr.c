@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{
+    char str[] = "Hello";
+    int i;
+
+    for(i = (int)strlen(str) - 1; i >= 0; i--)
+    {
+        printf("%c", str[i]);
+    }
+
+    return 0;
+}
